@@ -311,7 +311,9 @@ qwenlm.qwen-code-vscode-ide-companion: "{\"qwenCodeInfoMessageShown\":true,\"co\
   cleanup\",\"timestamp\":1771650820237}],\"createdAt\":1771650537156,\"updated\
   At\":1771650820237},{\"id\":\"conv_1773966732015_bvmiddusu\",\"title\":\"New
   Chat\",\"messages\":[],\"createdAt\":1773966732015,\"updatedAt\":177396673201\
-  5}]}"
+  5},{\"id\":\"conv_1774675186376_1p1zix5dc\",\"title\":\"New
+  Chat\",\"messages\":[],\"createdAt\":1774675186376,\"updatedAt\":177467518637\
+  6}]}"
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
 Vue.volar: '{"vue.welcome":"3.2.0"}'
 workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":false,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.continue","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.test","pinned":false,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.qwen-code-sidebar","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.python","pinned":true,"visible":false,"order":9}]'
@@ -347,7 +349,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   ns\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\
   \"isBuiltin\":true,\"views\":[]},{\"id\":\"workbench.view.extension.continue\
   \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/continue.contin\
-  ue-1.2.17-linux-x64/media/sidebar-icon.png\",\"scheme\":\"file\"},\"name\":\"\
+  ue-1.2.22-linux-x64/media/sidebar-icon.png\",\"scheme\":\"file\"},\"name\":\"\
   Continue\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.exten\
   sion.test\",\"themeIcon\":{\"id\":\"test-view-icon\"},\"name\":\"Testing\",\"\
   isBuiltin\":true,\"views\":[{\"when\":\"testing.providerCount >
@@ -356,7 +358,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
   \"}]},{\"id\":\"workbench.view.extension.qwen-code-sidebar\",\"iconUrl\":{\"$\
   mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/qwenlm.qwen-code-vscode-ide-compan\
-  ion-0.12.6-linux-x64/assets/sidebar-icon.svg\",\"scheme\":\"file\"},\"name\":\
+  ion-0.13.0-linux-x64/assets/sidebar-icon.svg\",\"scheme\":\"file\"},\"name\":\
   \"Qwen
   Code\",\"isBuiltin\":false,\"views\":[{\"when\":\"qwen-code:doesNotSupportSec\
   ondarySidebar\"}]},{\"id\":\"workbench.view.extension.cspell-info-explorer\",\
@@ -371,7 +373,7 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   Expressions\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experi\
   mental.enableRegexpView\"}]},{\"id\":\"workbench.view.extension.python\",\"ic\
   onUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-python.vscode-pytho\
-  n-envs-1.22.0-universal/files/logo.svg\",\"scheme\":\"file\"},\"name\":\"Pyth\
+  n-envs-1.24.0-universal/files/logo.svg\",\"scheme\":\"file\"},\"name\":\"Pyth\
   on\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.python.useEnvironments\
   Extension\"},{\"when\":\"config.python.useEnvironmentsExtension\"}]}]"
 workbench.activityBar.location: default
@@ -380,10 +382,10 @@ workbench.auxiliaryBar.lastNonMaximizedSize: "300"
 workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":1},{"id":"workbench.view.extension.qwen-code-secondary","pinned":true,"visible":false,"order":101}]'
 workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeIcon":{"id":"chat-view-icon"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatPanelParticipantRegistered
   && !chatExtensionInvalid && !chatSetupDisabled && !chatSetupHidden &&
-  !config.chat.disableAIFeatures"}]},{"id":"workbench.view.extension.qwen-code-secondary","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/qwenlm.qwen-code-vscode-ide-companion-0.12.6-linux-x64/assets/sidebar-icon.svg","scheme":"file"},"name":"Qwen
+  !config.chat.disableAIFeatures"}]},{"id":"workbench.view.extension.qwen-code-secondary","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/qwenlm.qwen-code-vscode-ide-companion-0.13.0-linux-x64/assets/sidebar-icon.svg","scheme":"file"},"name":"Qwen
   Code","isBuiltin":false,"views":[{"when":"!qwen-code:doesNotSupportSecondarySidebar"}]}]'
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["vue",true],["dotenv",true],["markdown",true],["json",true],["shellscript",true],["typescript",true],["properties",true],["php",true],["plaintext",true],["ignore",true],["python",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["dotenv",true],["markdown",true],["json",true],["shellscript",true],["typescript",true],["properties",true],["php",true],["plaintext",true],["ignore",true],["python",true],["yaml",true],["toml",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"npm","isHidden":true},{"id":"workbench.explorer.fileView","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -409,5 +411,5 @@ workbench.view.extension.qwen-code-secondary.state.hidden: '[{"id":"qwen-code.ch
 workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"workbench.view.testCoverage","isHidden":false}]'
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.marketplaceAccess","isHidden":false},{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.mcp.installed","isHidden":false},{"id":"workbench.views.mcp.default.marketplace","isHidden":false},{"id":"workbench.views.mcp.default.welcomeView","isHidden":false},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false},{"id":"workbench.views.mcp.marketplace","isHidden":false},{"id":"workbench.views.mcp.welcomeView","isHidden":false},{"id":"workbench.views.agentPlugins.installed","isHidden":false},{"id":"workbench.views.agentPlugins.default.marketplace","isHidden":true},{"id":"workbench.views.extensions.restartRequired","isHidden":false},{"id":"workbench.views.agentPlugins.marketplace","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "23"
+workbench.views.extensions.installed.size: "25"
 zokugun.cron-tasks: '{"version":"0.2.1"}'

@@ -17,6 +17,8 @@ disabled:
     uuid: 00000000-0000-0000-0000-000000000000
   - id: junstyle.php-cs-fixer
     uuid: 00000000-0000-0000-0000-000000000000
+  - id: rust-lang.rust-analyzer
+    uuid: 00000000-0000-0000-0000-000000000000
   - id: TimsExperiments.vscode-tailwindcss
     uuid: 00000000-0000-0000-0000-000000000000
   - id: YoavBls.pretty-ts-errors
